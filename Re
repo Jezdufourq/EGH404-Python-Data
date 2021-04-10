@@ -1,0 +1,2 @@
+# Introduction
+This repo is to store the code related to the EGH404 project at QUT. The purpose of this code is to collect, clean, analyse and display data related to the Research Question.
